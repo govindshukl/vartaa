@@ -90,6 +90,7 @@
 - hello robot
 - hi
 - hello
+- hello govind
 
 ## intent:inform
 - [Sitka](location)
@@ -181,6 +182,7 @@
 - a [home health agency](facility_type)
 - a [hospital](facility_type)
 - a [nursing home](facility_type)
+- find hospitals near to san fransico
 
 ## intent:search_provider
 - i need a [hospital](facility_type)
