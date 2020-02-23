@@ -1,5 +1,6 @@
 ## happy_path
 * greet
+    - utter_greet
     - find_facility_types
 * inform{"facility_type": "xubh-q36u"}    
     - facility_form
